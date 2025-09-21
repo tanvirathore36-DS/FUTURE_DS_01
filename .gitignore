@@ -1,0 +1,17 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+.env
+
+# Data (avoid pushing large raw data files)
+data/*.csv
+data/*.xlsx
+data/*.zip
+
+# Power BI (comment this out if you want to upload PBIX files)
+*.pbix
+
+# System
+.DS_Store
