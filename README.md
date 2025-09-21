@@ -13,9 +13,12 @@ Analyze e-commerce sales data to identify best-selling products, revenue trends,
 - Summarize insights and recommended actions
 
 ## Dataset
-- Source: Future Interns Task 1 dataset (or sample e-commerce dataset if not provided).
-- Location in repo: `/data/` (if file size <= 100 MB).  
-- If dataset is too large → I will upload to Google Drive and share the link here.  
+- **Name:** UK Online Retail Transactions (2009–2011)  
+- **Size:** ~60 MB (~1.06M rows)  
+- **Columns:** Invoice, StockCode, Description, Quantity, InvoiceDate, Price, Customer ID, Country  
+- **Source:** [Kaggle – Online Retail II](https://www.kaggle.com/datasets/mathchi/online-retail-ii)  
+- **Download Link:** [Google Drive Link]([<YOUR_DRIVE_LINK>](https://drive.google.com/file/d/1RnxX4ZT5SkQbc8glWAxgozDAoeR_2owA/view?usp=sharing))  
+- Dataset description is also available inside the [/data/](data/) folder.
 
 ## Tools
 - Power BI Desktop (.pbix)
