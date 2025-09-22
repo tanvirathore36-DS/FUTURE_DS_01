@@ -1,10 +1,10 @@
 # Assignment Folder
 
-This folder contains the Power BI dashboard file created for the internship task.
+This folder contains the Power BI dashboard file created for the internship Task-1 project.
 
 ## Contents
 - **dashboard.pbix** — the Power BI dashboard file with all visuals and analysis.
-- (Optional) Any supporting files specific to the assignment.
+- (Optional) Any supporting files specific to this assignment.
 
 ## How to Use
 - Open `dashboard.pbix` using **Power BI Desktop** (version 2.1 or later).
@@ -12,5 +12,5 @@ This folder contains the Power BI dashboard file created for the internship task
 - If the data source connection breaks, re-link the CSV files by going to **Home > Transform Data > Data Source Settings** in Power BI.
 
 ## Notes
-- The dashboard includes visualizations for sales, profit margins, and country-wise analysis.
+- The dashboard includes visualizations for **total sales, order volume, top products, yearly sales distribution, and country-wise performance**.
 - For a quick preview without Power BI, see the screenshots in the `../screenshots/` folder.
