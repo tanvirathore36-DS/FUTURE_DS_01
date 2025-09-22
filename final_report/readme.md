@@ -1,24 +1,14 @@
-# Project Report — Power BI Dashboard
+# 📊 Project Report — Business Sales Dashboard
 
-## Project Overview
-This project was completed as part of my internship assignment. The goal was to analyze sales and profit data, build meaningful visualizations, and design an interactive dashboard using Power BI.
+## Overview  
+This project involved creating an interactive **Power BI dashboard** to analyze business sales data from 2009–2011. The dashboard presents KPIs, sales trends, product performance, and market distribution in a clean, dark-themed layout.  
 
-## Objectives
-- Transform and analyze raw sales data.
-- Create visuals to highlight sales trends, profit margins, and country-wise performance.
-- Design a dashboard with a clean and professional layout for better decision-making.
+## Key Highlights  
+- **KPIs:** Total Sales ₹89,57,746 | 17,248 Orders | Average Order Value ₹519  
+- **Top Products:** Zinc-based decorative items dominated, with *ZINC METAL HEART DECORATION* leading sales.  
+- **Trends:** Sales peaked during mid-2010 and mid-2011.  
+- **Yearly Distribution:** 2010 contributed the largest share of revenue.  
+- **Geography:** Strong presence across countries such as Canada, UK, Finland, Singapore, Hong Kong, Japan, and Australia.  
 
-## Deliverables
-- **Power BI Dashboard (`assignment/dashboard.pbix`)** — fully interactive report.
-- **Screenshots (`screenshots/`)** — exported views of the dashboard for quick reference.
-- **Data (`data/`)** — source files used for analysis.
-- **Documentation (`README.md` files)** — explanations for each folder and overall project.
-
-## Key Insights
-- Identified the top profit-making brand and high-performing regions.
-- Highlighted states with the best profit margins.
-- Calculated adjusted revenue considering promotional rebates.
-- Analyzed order volume distribution to flag low-volume transactions.
-
-## Conclusion
-This dashboard provides a clear, data-driven view of sales and profit performance. It demonstrates the ability to transform raw data into actionable insights through visualization and storytelling in Power BI.
+## Conclusion  
+The dashboard provides a clear and interactive view of sales data, making it easy to identify best-selling products, market trends, and global reach. It demonstrates the use of **Power BI for data analysis, KPI tracking, and business insights**.
